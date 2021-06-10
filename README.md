@@ -1,7 +1,7 @@
 ![Untitled design](https://user-images.githubusercontent.com/52180444/121585892-f3cf2780-c9e7-11eb-9e09-d7c72f3dd4e3.png)
 
 
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Kary</h1>
 <h3 align="center">A passionate iOS developer from NYC</h3>
 
