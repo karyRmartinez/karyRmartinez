@@ -1,10 +1,11 @@
+![Black Technology Blog Banner](https://user-images.githubusercontent.com/52180444/121579701-cb8ffa80-c9e0-11eb-959a-7484730cfa0f.png)
 ### Hi there 👋
 
 <!--
 **karyRmartinez/karyRmartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![](Black Technology Blog Banner.png)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
