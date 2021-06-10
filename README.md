@@ -1,4 +1,4 @@
-![Black Technology Blog Banner](https://user-images.githubusercontent.com/52180444/121579701-cb8ffa80-c9e0-11eb-959a-7484730cfa0f.png)
+![Black Technology Blog Banner](https://user-images.githubusercontent.com/52180444/121580000-1dd11b80-c9e1-11eb-8381-69996a1a6a98.png)
 ### Hi there 👋
 
 <!--
