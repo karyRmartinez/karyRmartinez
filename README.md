@@ -2,7 +2,7 @@
 
 <!--
 **karyRmartinez/karyRmartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![image](BlacktechnologyBlogBanner.png)
+![image](Black Technology Blog Banner.png)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
