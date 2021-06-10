@@ -7,7 +7,7 @@
 **karyRmartinez/karyRmartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+🏢 Seeking a junior iOS Software Engineer role.
 - 🔭 I’m currently working on https://github.com/karyRmartinez/HOPS-2.0
 - 🌱 I’m currently learning Swift.
 - 👯 I’m looking to collaborate on ...
