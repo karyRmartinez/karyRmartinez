@@ -3,7 +3,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Kary</h1>
-<h3 align="center">A passionate iOS developer from NYC</h3>
+
+
+  I am a passionate iOS Developer trained at Pursuit, an intensive 10-month fellowship with a 9% acceptance rate. During the program, I not only learned about the fundamentals of coding but have also built multiple apps from scratch. I have a passion for processes, and with my background in theater and photography I love to express my creativity in all of my work.
 
 - 🔭 I’m currently working on **https://github.com/karyRmartinez/HOPS-2.0**
 
