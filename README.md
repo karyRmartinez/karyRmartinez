@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **https://github.com/karyRmartinez/HOPS-2.0**
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning **SwiftUI** and AWS
 
 - 📫 How to reach me **https://www.linkedin.com/in/kary-r-martinez-478682190/**
 
