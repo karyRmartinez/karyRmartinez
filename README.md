@@ -3,9 +3,7 @@
 
 
   I am a passionate iOS Developer trained at Pursuit, a fellowship with a 9% acceptance rate. During the program, I not only learned about the fundamentals of coding but have also built multiple apps from scratch. I have a passion for processes, and I love working with a team. My background in theater and photography have also helped me express my creativity in all of my work.
-
-- 🔭 I’m currently working on **https://github.com/karyRmartinez/HOPS-2.0**
-
+  
 - 🌱 I’m currently learning **Java** 
 
 - 📫 How to reach me **https://www.linkedin.com/in/kary-r-martinez-478682190/**
