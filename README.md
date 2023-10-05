@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kary</h1>
 
 
-  I am a passionate iOS Developer trained at Pursuit, I not only learned about the fundamentals of coding but have also built multiple apps from scratch. I have a passion for processes, and I love working with a team. My background in theater and photography have also helped me express my creativity in all of my work.
+  I am a passionate iOS Developer trained at Pursuit, I not only learned about the fundamentals of coding but have also built apps from scratch. I have a passion for processes, and I love working with a team. My background in theater and photography have also helped me express my creativity in all of my work.
   
 - 🌱 I’m currently learning **Java** 
 
