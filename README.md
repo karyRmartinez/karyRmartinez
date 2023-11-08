@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Kary</h1>
 
 
-  I am a passionate iOS Developer trained at Pursuit, I not only learned about the fundamentals of coding but have also built apps from scratch. I have a passion for processes, and I love working with a team. My background in theater and photography have also helped me express my creativity in all of my work.
+  I am a passionate iOS Developer trained at Pursuit, Where I not only learned Swift, but also built apps from scratch. I have a passion for processes, and I love working with a team. My background in theater and photography have also helped me express my creativity in all of my work. So, let's continue to learn, to grow, and to evolve, for the journey of knowledge is a journey of endless possibilities.
   
-- 🌱 I’m currently learning **Java** 
+-  👩🏽‍💻 I’m currently learning **Java** 
 
 - 📫 How to reach me **https://www.linkedin.com/in/kary-r-martinez-478682190/**
 
