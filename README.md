@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Kary</h1>
 
+I am currently a backend student learning Java at YearUp, and iOS Developer trained at Pursuit, Through intensive programs,I've gained coding skills, successfully developing multiple applications from the ground up. I have a passion for processes, and I love working with a team. My background in theater and photography have also helped me express my creativity in all of my work. So, let's continue to learn, to grow, and to evolve, for the journey of knowledge is a journey of endless possibilities.
 
-  I am a passionate iOS Developer trained at Pursuit, Where I not only learned Swift, but also built apps from scratch. I have a passion for processes, and I love working with a team. My background in theater and photography have also helped me express my creativity in all of my work. So, let's continue to learn, to grow, and to evolve, for the journey of knowledge is a journey of endless possibilities.
   
 -  👩🏽‍💻 I’m currently learning **Java** 
 
